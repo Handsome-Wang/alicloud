@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: demo-consumer # Spring 应用名
+  profiles:
+    active: @spring.active@
+
+
+
+

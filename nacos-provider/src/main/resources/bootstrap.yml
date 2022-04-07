@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: demo-provider # Spring 应用名
+  profiles:
+    active: @spring.active@
+
+
+
+
+
